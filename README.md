@@ -1,4 +1,5 @@
 <div align="right"><b></b><img src="https://www.cam.ac.uk/sites/www.cam.ac.uk/files/inner-images/logo.jpg" width="20%" height="20%" /></div>
+
 # R, Python, Bioinformatics Trainings
 
 R, Python and Bioinformatics courses from the University of Cambridge, UK, and other partners institutions.
