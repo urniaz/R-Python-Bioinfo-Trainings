@@ -2,7 +2,7 @@
 
 **Rafal Urniaz, PhD** [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0192--2165-A6CE39?logo=orcid&logoColor=FFFFFF)](https://orcid.org/0000-0003-0192-2165) 
 
-# R, Python, Bioinformatics Trainings
+# R, Python, Bioinformatics Trainings 
 
 R, Python and Bioinformatics courses from the University of Cambridge, UK, and other partners institutions.
 
